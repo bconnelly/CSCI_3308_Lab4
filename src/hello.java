@@ -18,6 +18,7 @@ public class hello {
 			System.out.println("Looping");
 			x++;
 		}
+		System.out.println("Final addition");
 	}
 }
 
